@@ -1,0 +1,23 @@
+.cart {
+    position: fixed;
+    top: 50px;
+    right: 10px;
+    z-index: 99999;
+  }
+  
+  .cart i {
+    color: white;
+    padding: 20px;
+    border-radius: 50px;
+    background-color: #451ef1;
+    font-size: 20px;
+  }
+  
+  .cart span {
+    position: absolute;
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 50px;
+    left: 40px;
+  }
